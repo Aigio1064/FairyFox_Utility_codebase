@@ -1,5 +1,4 @@
 /**
- * Copyright 2022 Aigio1064  
  * 获取链接search并转换为Object，如果没有search则返回false，如果有但是问号后没有内容则返回true。  
  * 注意！这只能做到读取，并不能修改，因为那将刷新页面！所以请不要尝试赋值！因为那会显得你很蠢！  
  * $_GET 是php的写法，与 searchToObject() 是一样的，所以也不要尝试赋值！  
